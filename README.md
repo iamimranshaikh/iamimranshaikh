@@ -12,7 +12,8 @@
 ---
 
 ### 🚀 Projects
-- 🎨 [Portfolio Website](https://iamimranshaikh.github.io/portfolio-website)  
+- 🎨 [Portfolio Website](https://iamimranshaikh.github.io/portfolio-website)
+- ![Preview](portfolio_website_preview.png)
 - 🕶️ [E-commerce Product Page](https://iamimranshaikh.github.io/sunglass-ecommerce-demo)  
 - ✍️ [Blog Layout](https://iamimranshaikh.github.io/blog-project)  
 - 🧩 [Responsive UI Showcase](https://iamimranshaikh.github.io/responsive-ui-showcase)
