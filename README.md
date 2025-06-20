@@ -17,16 +17,17 @@
 - 🕶️ [E-commerce Product Page](https://iamimranshaikh.github.io/sunglass-ecommerce-demo)  
 - ✍️ [Blog Layout](https://iamimranshaikh.github.io/blog-project)  
 - 🧩 [Responsive UI Showcase](https://iamimranshaikh.github.io/responsive-ui-showcase)
-![Preview](blog_layout_project_preview.png)
+![Preview](portfolio_website_preview.png)
 
-# Blog Layout Project
+# 🌐 Portfolio Website
 
-A clean, responsive blog layout built using HTML and CSS. This project demonstrates a structured layout with modern typography and a responsive design approach.
+A personal portfolio built using HTML and CSS to showcase my skills, projects, and contact information. Designed to be responsive across all devices.
 
-## Features
-- Clean blog UI
-- Mobile responsive
-- Simple HTML/CSS (no frameworks)
+## 🛠️ Features
+- Clean responsive design
+- Contact form (dummy)
+- Project showcase section
+- Mobile-first layout
 
 
 ---
