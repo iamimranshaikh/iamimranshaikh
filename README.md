@@ -18,7 +18,9 @@
 - ✍️ [Blog Layout](https://iamimranshaikh.github.io/blog-project)  
 - 🧩 [Responsive UI Showcase](https://iamimranshaikh.github.io/responsive-ui-showcase)
   
-![Preview](portfolio_website_preview.png)
+<!-- Portfolio Website README -->
+
+![Preview](./portfolio_website_preview.png)
 
 # 🌐 Portfolio Website
 
@@ -29,6 +31,17 @@ A personal portfolio built using HTML and CSS to showcase my skills, projects, a
 - Contact form (dummy)
 - Project showcase section
 - Mobile-first layout
+
+## 🚀 Live Site
+👉 [View Live](https://iamimranshaikh.github.io/portfolio-website)
+
+## 📁 Tech Used
+- HTML
+- CSS
+- Git & GitHub
+
+## 📸 Screenshot
+If the preview image doesn't show, make sure the file `portfolio_website_preview.png` is uploaded in this repository.
 
 - ![Preview](e-commerce_product_page_preview.png) 
 
