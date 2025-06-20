@@ -20,7 +20,7 @@
   
 <!-- Portfolio Website README -->
 
-![Preview](./portfolio_website_preview.png)
+![Preview](portfolio_website_preview.png)
 
 # 🌐 Portfolio Website
 
