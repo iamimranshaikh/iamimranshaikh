@@ -18,7 +18,7 @@
 - ✍️ [Blog Layout](https://iamimranshaikh.github.io/blog-project)  
 - 🧩 [Responsive UI Showcase](https://iamimranshaikh.github.io/responsive-ui-showcase)
   
-![Preview](portfolio_website_preview.PNG)
+![Preview](portfolio_website_preview.png)
 
 # 🌐 Portfolio Website
 
