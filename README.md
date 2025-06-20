@@ -29,6 +29,18 @@ A personal portfolio built using HTML and CSS to showcase my skills, projects, a
 - Project showcase section
 - Mobile-first layout
 
+- ![Preview](e-commerce_product_page_preview.png)
+
+# 🕶️ E-commerce Product Page
+
+A product detail page layout for a sunglass store. Created with responsive HTML/CSS layout and styled buttons, price info, and product image.
+
+## 🛒 Features
+- Modern card layout
+- Price, title, and CTA buttons
+- Mobile-friendly product design
+- Hover and responsive styles
+
 
 ---
 
