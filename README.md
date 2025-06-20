@@ -17,6 +17,7 @@
 - 🕶️ [E-commerce Product Page](https://iamimranshaikh.github.io/sunglass-ecommerce-demo)  
 - ✍️ [Blog Layout](https://iamimranshaikh.github.io/blog-project)  
 - 🧩 [Responsive UI Showcase](https://iamimranshaikh.github.io/responsive-ui-showcase)
+  
 ![Preview](portfolio_website_preview.png)
 
 # 🌐 Portfolio Website
@@ -29,7 +30,7 @@ A personal portfolio built using HTML and CSS to showcase my skills, projects, a
 - Project showcase section
 - Mobile-first layout
 
-- ![Preview](e-commerce_product_page_preview.png)
+- ![Preview](e-commerce_product_page_preview.png) 
 
 # 🕶️ E-commerce Product Page
 
@@ -41,9 +42,33 @@ A product detail page layout for a sunglass store. Created with responsive HTML/
 - Mobile-friendly product design
 - Hover and responsive styles
 
+![Preview](blog_layout_project_preview.png)
 
+# ✍️ Blog Layout Project
+
+A responsive blog layout featuring sample article titles and content. Focused on clean typography, visual spacing, and responsive column layout.
+
+## 📘 Features
+- Multi-column layout
+- Simple blog-style structure
+- Clean and readable UI
+- Fully responsive on mobile
 ---
 
+![Preview](responsive_ui_showcase_preview.png)
+
+# 💡 Responsive UI Showcase
+
+A collection of custom-built UI components using only HTML and CSS. Created to demonstrate frontend design skills with reusable layouts.
+
+## 🧩 Features
+- Responsive navbar
+- Product card layout
+- Login/signup form
+- Pricing section
+- Footer with links
+
+  
 ### 🛠️ Tech Stack
 ```html
 Languages: HTML, CSS, JavaScript  
